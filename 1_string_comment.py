@@ -13,3 +13,4 @@ more than just one line
 print("Hello, World!")
 
 
+#for string methods; https://www.youtube.com/watch?v=HJpiAZDJrRY
