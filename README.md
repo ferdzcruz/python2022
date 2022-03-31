@@ -1,5 +1,10 @@
 # python2022
-for python studies
+        Welcome to my daily steps on Python learing.
 
-Day1 - Study on how to configure VS to automatically use for git sync
-        study on how to use module
+        Day1 - Study on how to configure VS to automatically use for git sync
+                study on how to use module
+                Logic of Git Commands
+
+        
+
+
