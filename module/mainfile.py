@@ -1,6 +1,11 @@
 def greet (message, name):
     return (f"{message}!{name}!How can i help you?")
 
+
+def add (a , b):
+    return (f"The sum of {a} and {b} is {int(a + b)}")
+
+
 #print(__name__) #when you run this line, this will be equivalent to __main__
                 #so in the if below,
 
