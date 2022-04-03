@@ -1,0 +1,13 @@
+
+#if statement
+if myname == "ferdie":
+    print ("Hello Ferdie")
+
+#else statement
+else:
+    print("Hello, Stranger")
+
+#elif statement : another condition after if statement
+elif age < 12
+    print("you're so young")
+

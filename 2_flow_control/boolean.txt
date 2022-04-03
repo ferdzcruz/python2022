@@ -1,0 +1,4 @@
+Boolean values: True or False.
+Boolean comparison :  ==, != < , > , <= >=
+Boolean Operators : and,or,not
+
