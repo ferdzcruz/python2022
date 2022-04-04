@@ -1,6 +1,3 @@
-from time import sleep
-
-
 while True:     
     print("type your password here")
     password = input()

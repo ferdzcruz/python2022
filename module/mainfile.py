@@ -1,7 +1,7 @@
 from itertools import product
 
 
-def greet (message, name):
+def greet (message, name) -> str:
     return (f"{message}!{name}!How can i help you?")
 
 

@@ -1,4 +1,7 @@
 # python2022
+        some helpful sites:
+https://www.programiz.com/python-programming/function
+
         Welcome to my daily steps on Python learing.
 
         Day1 - Study on how to configure VS to automatically use for git sync
