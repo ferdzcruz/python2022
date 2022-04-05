@@ -1,6 +1,7 @@
 # python2022
         some helpful sites:
 https://www.programiz.com/python-programming/function
+https://docs.python.org/3/reference/
 
         Welcome to my daily steps on Python learing.
 
@@ -11,5 +12,7 @@ https://www.programiz.com/python-programming/function
         
 
         Day2 - Flow Control Statements
+
+        Day3 - Functions , Module, dataclasses
 
 
