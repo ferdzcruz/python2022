@@ -1,6 +1,9 @@
 # python2022
-        some helpful sites:
+
+some helpful sites:
+
 https://www.programiz.com/python-programming/function
+
 https://docs.python.org/3/reference/
 
         Welcome to my daily steps on Python learing.
