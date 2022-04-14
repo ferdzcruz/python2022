@@ -18,4 +18,6 @@ https://docs.python.org/3/reference/
 
         Day3 - Functions , Module, dataclasses
 
+        Day4 - List
+
 
