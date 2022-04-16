@@ -20,4 +20,7 @@ https://docs.python.org/3/reference/
 
         Day4 - List
 
+        Day 5 - learned how to use module/file that has all the variables
+        
+
 
