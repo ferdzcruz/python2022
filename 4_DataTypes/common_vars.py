@@ -1,0 +1,5 @@
+name = ['ferdie','Josche','Sophie']
+spam = [ 1,2,3]
+animals = [['coco','bowie'], ['rango','marvin']]
+supplies = ['pensil','ballpen','paper','crayon','notebooks','books']
+cities = ['Cavite','Batangas','Pampanga','Taguig']
