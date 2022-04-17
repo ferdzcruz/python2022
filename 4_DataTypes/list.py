@@ -49,6 +49,19 @@ for i in range(len(supplies)):
     
     '''Here the i(0 to n) will hold the len, converted to str, supplies as the list, listed as i'''
 
-
 for a in range (len(cities)):
     print (f"I have live in {str(a)} on the following cities : {cities[a]} ")
+
+
+#In and Not Operator
+bayan = input("Enter city : ")
+if bayan not in cities:
+    
+    print("dont' know the place")
+else:
+    print("yes, i know that")
+
+
+#Using enumerate will also get the index of the item
+for index, players in enumerate(nba_players):
+    print(f"My top favorite players {str(index)} is : {nba_players[index]}")

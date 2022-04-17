@@ -1,4 +1,4 @@
-def add_num(n1, n2):
+def add_num(n1, n2) -> int:
     return f"The sum of {n1} + {n2} is {n1 + n2}"
 
 def subtract_num(n1, n2):
