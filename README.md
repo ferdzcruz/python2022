@@ -22,5 +22,7 @@ https://docs.python.org/3/reference/
 
         Day 5 - learned how to use module/file that has all the variables
         
-        Day 6 - manipulating Strings, Tuple, Dictionaries, List     
+        Day 6 - manipulating Strings, Tuple, Dictionaries, List
+
+        Day 7 -    
 
