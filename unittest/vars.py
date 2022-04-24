@@ -1,4 +1,4 @@
-num_x = 10
+num_x = 20
 num_y = 5
 
 
