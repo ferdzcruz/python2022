@@ -24,5 +24,7 @@ https://docs.python.org/3/reference/
         
         Day 6 - manipulating Strings, Tuple, Dictionaries, List
 
-        Day 7 -    
+        Day 7 - Unittest
+        
+        Day8 - go to back to basic list, tuple, set
 
