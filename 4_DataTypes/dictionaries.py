@@ -1,6 +1,3 @@
-import pprint
-
-from platformdirs import user_cache_dir
 from common_vars import *
 print(food_to_eat ['breakfast'])
 
@@ -30,13 +27,4 @@ for x in allguest['Ferdie'].keys():
     print(x)
 for y in allguest['Ferdie'].values():
     print(y)
-
-user_in = input()
-if user_in not in allguest['Ferdie'].keys():
-    print('FALSE')
-else:
-    print('TRUE')
-
-print('bye')
-
 

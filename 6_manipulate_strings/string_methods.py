@@ -1,4 +1,4 @@
-import pyperclip # module to copy and paste
+
 
 #isX method
 # == isalpha(),isalnum(),isdecimal(),isspace(),istitle()
@@ -42,4 +42,3 @@ print(message.strip())
 mymess = "Ferdinand.Cruz@infor.com"
 print(mymess.strip("@infor.com\n"))
 
-pyperclip

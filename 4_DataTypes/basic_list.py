@@ -2,7 +2,7 @@
 
 #list are mutable
 
-from msilib.schema import tables
+
 from common_vars import courses, nums, lm_tables
 
 print(courses[3])

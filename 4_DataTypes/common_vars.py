@@ -7,7 +7,12 @@ cities = ['Cavite','Batangas','Pampanga','Taguig']
 nba_players = ['MJ','LJ','KD','SC']
 courses = ['History','Math','English','CompSci']
 nums = [2,3,1,5,4]
-lm_tables = ['ActionRequest', 'ActionTrigger', 'PfiWorkunit', 'PfiVersion']
+acr,act,pfiw,pfiv = ['ActionRequest', 'ActionTrigger', 'PfiWorkunit', 'PfiVersion']
+
+
+#unpacking list
+gen_tables = ['ActionRequest', 'ActionTrigger', 'Actor', 'Role']
+
 
 #tuple variable () not mutable
 food = ('egg','bread','rice','chicken','pork')

@@ -19,6 +19,6 @@ while True:
     print ("Hello, Ferdie! What is the password?")  #it will ask for the password. If password is wrong, it will go back to the username 
                                                     # due to while statement
     password = input()
-    if password != "Jesus":
+    if password == "Jesus":
         break
 print("Thank you")
